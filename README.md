@@ -2,11 +2,11 @@ Hello there! 👋
 
 I've joined GitHub **3** years ago.
 
-Since then I pushed **625** commits, opened **7** issues, submitted **9** pull requests, reviewed **0** pull requests, received **4** stars across **21** personal projects and contributed to **3** public repositories.
+Since then I pushed **628** commits, opened **7** issues, submitted **9** pull requests, reviewed **0** pull requests, received **4** stars across **21** personal projects and contributed to **3** public repositories.
 
 Most used languages across my projects:
 
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B159.7%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B159.8%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B131.7%25)
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B14.2%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B12.3%25)
