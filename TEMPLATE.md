@@ -1,4 +1,6 @@
-Hello there! 👋
+# **<div align="center">Hello there! 👋</div>**
+
+<br />
 
 I've joined GitHub **{{ ACCOUNT_AGE }}** years ago.
 
