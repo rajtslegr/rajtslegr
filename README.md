@@ -1,8 +1,10 @@
-Hello there! 👋
+# **<div align="center">Hello there! 👋</div>**
+
+<br />
 
 I've joined GitHub **4** years ago.
 
-Since then I pushed **1225** commits, opened **8** issues, submitted **155** pull requests, reviewed **355** pull requests, received **7** stars across **52** personal projects and contributed to **15** public repositories.
+Since then I pushed **1226** commits, opened **8** issues, submitted **155** pull requests, reviewed **355** pull requests, received **7** stars across **52** personal projects and contributed to **15** public repositories.
 
 Most used languages across my projects:
 
